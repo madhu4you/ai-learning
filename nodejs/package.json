@@ -1,0 +1,27 @@
+{
+  "name": "ai-learning",
+  "version": "1.0.0",
+  "description": "This is for learning OpenAI GPT's to understand the Text, Vision and Search models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/madhu4you/ai-learning.git"
+  },
+  "keywords": [
+    "OpenAI",
+    "NodeJS",
+    "JavaScript"
+  ],
+  "author": "Madhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhu4you/ai-learning/issues"
+  },
+  "homepage": "https://github.com/madhu4you/ai-learning#readme",
+  "dependencies": {
+    "openai": "^4.68.1"
+  }
+}
